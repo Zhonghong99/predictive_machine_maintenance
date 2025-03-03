@@ -32,6 +32,7 @@ flowchart TB
 - **Pandas, NumPy** (Data Manipulation)
 - **Matplotlib, Seaborn** (Visualization)
 - **Scikit-learn** (Machine Learning)
+- **Flask** (Web Application)
 
 ## 🔬 Key Steps
 1. **Data Collection & Preprocessing**
@@ -57,7 +58,7 @@ flowchart TB
 ## 🚀 Running the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Zhonghong99/predictive_machine_maintenance.git
+   git clone https://github.com/your-repo/predictive-maintenance.git
    ```
 2. Install dependencies:
    ```bash
@@ -67,6 +68,17 @@ flowchart TB
    ```bash
    jupyter notebook Predictive_machine_maintenance.ipynb
    ```
+4. Run the application (`app.py`) on your terminal:
+   - If using **VS Code**:
+     ```bash
+     python app.py
+     ```
+   - If using **PyCharm**:
+     - Open `app.py` and click on the **Run** button.
+   - If using a standard **terminal**:
+     ```bash
+     python app.py
+     ```
 
 ## 📌 Future Improvements
 - Integrating deep learning models for better predictions.
@@ -75,4 +87,3 @@ flowchart TB
 ## 📜 License
 This project is licensed under the **MIT License**.  
 See the [LICENSE](LICENSE) file for details.
-
