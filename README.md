@@ -5,7 +5,7 @@ Industrial equipment failures can result in costly production downtime, with man
 
 By monitoring key performance indicators from various industrial machines, the system identifies early signs of wear and potential failure. This allows maintenance teams to intervene before critical breakdowns occur, thereby minimizing downtime, optimizing repair schedules, and significantly reducing operational costs.
 
-The dataset can be found here [https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020].
+The dataset can be found (here)[https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020].
 ## 📊 Project Workflow
 ```mermaid
 flowchart TB
