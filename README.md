@@ -1,8 +1,11 @@
 # Predictive Machine Maintenance
 
-## 📌 Overview
-Industrial equipment failures cause significant production downtime, costing manufacturers an average of **$50,000-$100,000 per hour**. This project develops a **predictive maintenance system** using machine learning to analyze sensor data and forecast equipment failures before they occur, reducing operational costs.
+## 📌 Project Background
+Industrial equipment failures can result in costly production downtime, with manufacturers facing losses of up to **$50,000-$100,000 per hour**. In response to these high costs, this project focuses on developing a robust predictive maintenance system that leverages machine learning to proactively analyze sensor data. 
 
+By monitoring key performance indicators from various industrial machines, the system identifies early signs of wear and potential failure. This allows maintenance teams to intervene before critical breakdowns occur, thereby minimizing downtime, optimizing repair schedules, and significantly reducing operational costs.
+
+The dataset can be found here [https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020].
 ## 📊 Project Workflow
 ```mermaid
 flowchart TB
